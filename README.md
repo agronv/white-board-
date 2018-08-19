@@ -1,2 +1,2 @@
 # white-board-
-This is a small project of a white board. I created it using pygame.
+This is a small project of a white board. I created it using pygame. There are various buttons in the appliction that will change the color, shape, and size of your lines. There is an eraser which is simply the white color. in order to draw you can use your mouse or the arrow keys, I find that the arrow keys are more injoyable. I also included a rainbow button which changes the color at every time step when using the mouse, and when using the keyboard the color changes when you change the direction. I have also included a color changing button which looks like a transition from white to black, this button transitions from color to color. Have fun while doodling 
